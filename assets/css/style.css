@@ -15,9 +15,9 @@ li {
 }
 
 body {
-  background: black;
+  background-image: url(/assets/bg3.png);
+  background-repeat: no-repeat;
   font-family: "Nunito", sans-serif;
-
   display: flex;
   justify-content: center;
   position: relative;
